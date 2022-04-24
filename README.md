@@ -1,2 +1,2 @@
 # Datatrained_Projects
-Intership Project
+Internship Project
